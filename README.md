@@ -18,6 +18,8 @@ This is an experimental actor, for scenarios when the Level has World Partition 
 
 ## Important notes:
 
+### "Geometry Script" Plugin is required
+- Your project has to have "Geometry Script" Plugin enabled for this blueprint to function.
 ### Floor vertex colors
 - When generating the floor you can set vertex color for the floor and edges. You can use this in a Material to do for example damages on the edges of the floor or water puddles.
 ### Floor UV Rotation
