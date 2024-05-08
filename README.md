@@ -4,6 +4,8 @@
 
 The BP_SidewalkActorBase is a blueprint in Unreal Engine that allows you to easily create and customize sidewalks in your game or project. This tool provides a 4 sets of pre-made sidewalk pieces, base shapes to use as template to model your own pieces.
 
+Buy on Unreal Marketplace : https://www.unrealengine.com/marketplace/en-US/product/adf0e75c72ec4eb198f404f84a0da1ad
+
 ## Important classes:
 
 ### BP_SidewalkActorBase
